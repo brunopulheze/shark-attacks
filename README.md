@@ -11,8 +11,7 @@ This project analyzes shark attack data to uncover trends, patterns, and insight
 ## Getting Started
 
 1. Clone the repository.
-2. Install required dependencies (see `requirements.txt`).
-3. Explore the data and notebooks.
+2. Explore the data and notebooks.
 
 ## Objectives
 
@@ -23,11 +22,7 @@ This project analyzes shark attack data to uncover trends, patterns, and insight
 ## Requirements
 
 - Python 3.8+
-- pandas, numpy, matplotlib, seaborn, scikit-learn, jupyter
-
-## Usage
-
-Run the Jupyter notebooks in the `notebooks/` directory to follow the analysis steps.
+- pandas, numpy, matplotlib, seaborn, jupyter
 
 ## License
 
