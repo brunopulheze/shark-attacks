@@ -4,8 +4,8 @@ This project analyzes shark attack data to uncover trends, patterns, and insight
 
 ## Project Structure
 
-- `data/` - Contains raw and processed shark attack datasets.
-- `notebooks/` - Jupyter notebooks for data exploration and analysis.
+- Contains raw and processed shark attack datasets.
+- Jupyter notebooks for data exploration and analysis.
 - `README` - Project overview and instructions.
 
 ## Getting Started
